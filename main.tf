@@ -3,7 +3,7 @@ terraform {
     organization = "infrastructure-pipelines-workshop"
 
     workspaces {
-      name = "john-d-vault"
+      name = "jerome-p-vault"
     }
   }
   required_providers {
